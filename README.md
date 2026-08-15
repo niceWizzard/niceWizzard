@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐛CS Student<br>
+Magna Cum Laude graduate of BS Mathematics major in Computer Science from Bulacan State University
 
 
 # 💻 Tech Stack:
